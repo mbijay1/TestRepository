@@ -9,6 +9,7 @@ public class Test {
 		System.out.println(b);
 		System.out.println(Test.c);
 		System.out.println(Test.d);
+		System.out.println(c*d);
 		
 	}
 	static void m2(){
